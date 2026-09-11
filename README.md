@@ -31,3 +31,6 @@ Chaque modification doit :
 4. être revue avant son intégration dans `main`.
 
 L'objectif est de conserver un historique propre et lisible.
+
+## Versioning
+Le projet utilise Semantic Versioning et des commits conventionnels.
