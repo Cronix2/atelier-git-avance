@@ -1,5 +1,5 @@
 ﻿def main():
-    print("Atelier Git avancé")
+    print("Version B")
 
 
 if __name__ == "__main__":
