@@ -4,3 +4,6 @@
 
 if __name__ == "__main__":
     main()
+
+# Application Git avancée
+# TODO: améliorer le message
